@@ -1,0 +1,7 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Daily Quote</string>
+    <string name="loading_quote">Loading quote&#x2026;</string>
+    <string name="new_quote">New Quote</string>
+    <string name="quote_content">\"<xliff:g id="content" example="Never eat anything you found on the floor.">%1$s</xliff:g>\"</string>
+    <string name="said_by_author">-<xliff:g id="name" example="John Doe">%1$s</xliff:g></string>
+</resources>
